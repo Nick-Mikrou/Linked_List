@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/nick-mikrou/linked_list/badge)](https://www.codefactor.io/repository/github/nick-mikrou/linked_list)
+
 # Linked List
   
 Linked list is a linear collection of data elements. More specifically, is a data structure consisting of a collection of nodes, which are not stored at contiguous memory location. Usually, node contains data and reference to the next node in the sequence.
